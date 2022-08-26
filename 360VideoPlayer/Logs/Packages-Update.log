@@ -1,0 +1,19 @@
+
+=== Fri Apr 22 20:02:46 2022
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ide.visualstudio@2.0.8
+The following packages were updated:
+  com.unity.test-framework from version 1.1.16 to 1.1.24
+
+=== Tue Jun  7 22:34:14 2022
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.nuget.newtonsoft-json@2.0.0
+  com.unity.textmeshpro@1.4.1
