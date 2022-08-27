@@ -2,7 +2,8 @@
  
 電腦端
 
-https://user-images.githubusercontent.com/50353258/186928670-b716eba4-7278-434e-a345-171801f1b5f9.mp4
+https://user-images.githubusercontent.com/50353258/187021341-ed3aae22-7a18-4211-98ad-a9fd26bdea92.mp4
+
 
 手機端
 
