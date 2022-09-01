@@ -63,7 +63,7 @@ public class GyroControl : MonoBehaviour
         }
     }
 
-    public void OnSensorDataChanged(int sensorType, float[] values, long timestamp)
+    /*public void OnSensorDataChanged(int sensorType, float[] values, long timestamp)
     {
         string str = string.Join(" ", values);
         Debug.Log("OnSensorDataChanged value :" + str);
@@ -91,5 +91,5 @@ public class GyroControl : MonoBehaviour
                 //testc_txt.text = str;
                 break;
         }
-    }
+    }*/
 }
